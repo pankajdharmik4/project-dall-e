@@ -107,7 +107,7 @@ const CreatePost = () => {
               />
 
             <FormField
-              labelName="Prompt"
+              labelName="Prompt (Enter Image Description or Use Surprise Me) "
               type="text"
               name="prompt"
               placeholder="A futuristic cyborg dance club, neon lights"
